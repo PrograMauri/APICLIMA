@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/formleft.tsx","./src/components/formright.tsx","./src/components/spinner.tsx","./src/data/paises.ts","./src/help/help.ts","./src/hooks/useclima.ts","./src/types/types.ts"],"version":"5.6.3"}
